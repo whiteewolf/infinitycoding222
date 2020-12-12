@@ -11,11 +11,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/65cYA2DbCETUTylYI75HgP)
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
