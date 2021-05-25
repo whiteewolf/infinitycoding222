@@ -1,4 +1,4 @@
-# Hi. I am infinitycoding222
+# Hi. I am whiteewolf
 
 ### Discord Bot Developer
 ### HTML5 Game Developer
@@ -6,7 +6,7 @@
 ---
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=infinitycoding222&hide=[]">
+<img src="https://github-readme-stats.vercel.app/api?username=whiteewolf&hide=[]">
 
 ---
 ### Languages and Tools:
