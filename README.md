@@ -11,7 +11,21 @@
 ---
 ### Languages and Tools:
 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </p>
+<h3><strong>Javascript</strong></h3>
+<h3><strong>Python (A little bit)</strong></h3>
+<h3><strong>HTML</strong></h3>
+<h3><strong>CSS</strong></h3>
+<h3><strong>NodeJS</strong></h3>
+<h3><strong>ExpressJS</strong></h3>
+
+---
+
+---
+### Bots
+#### AntiRaid
+<a href='https://infinitybotlist.com/bots/858308969998974987' title='widget'> <img src='https://infinitybotlist.com/bots/858308969998974987/widget?size=large'></img></a>
+#### F.R.I.D.A.Y
+<a href='https://infinitybotlist.com/bots/866066926614478849' title='widget'> <img src='https://infinitybotlist.com/bots/866066926614478849/widget?size=large'></img></a>
 
 ---
 
