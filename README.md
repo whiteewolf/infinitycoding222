@@ -6,7 +6,7 @@
 ---
 
 ### Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true)]()<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight)]()
 
 ---
@@ -20,20 +20,3 @@
 <h3><strong>ExpressJS</strong></h3>
 
 ---
-
----
-### Bots
-#### AntiRaid
-<a href='https://infinitybotlist.com/bots/858308969998974987' title='widget'> <img src='https://infinitybotlist.com/bots/858308969998974987/widget?size=large'></img></a>
-#### F.R.I.D.A.Y
-<a href='https://infinitybotlist.com/bots/866066926614478849' title='widget'> <img src='https://infinitybotlist.com/bots/866066926614478849/widget?size=large'></img></a>
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="infinitycoding222's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=infinitycoding222&show_icons=true&hide_border=truee" />
-
-</details>
