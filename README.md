@@ -6,7 +6,8 @@
 ---
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=whiteewolf&hide=[]">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight)]()
 
 ---
 ### Languages and Tools:
