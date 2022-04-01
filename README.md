@@ -8,7 +8,8 @@
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight" align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight" align="left"><br>
 
 ---
 ### Languages and Tools i use currently:
