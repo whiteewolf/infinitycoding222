@@ -1,16 +1,18 @@
 # Hi. I am whiteewolf
 
+---
 ### Discord Bot Developer
 ### HTML5 Game Developer
 ### Starter Unity Developer
 ### Intermediate Python Developer
+
 ---
-
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api/?username=whiteewolf&count_private=true&theme=tokyonight&showicons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight" align="left"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteewolf&langs_count=5&theme=tokyonight"><br>
 <br>
+
 
 ---
 ### Languages and Tools i use currently:
